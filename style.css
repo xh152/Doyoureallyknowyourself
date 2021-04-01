@@ -13,12 +13,10 @@ h1 {
   text-align:center;
   font-size:100px;
   color: black;
+  text-decoration: none；
 }
 a {
   font-sze:15px;
   color:black;
-}
-.next {
-  margin-right:0;
-  margin-bottom:0;
+  text-decoration: none
 }
