@@ -5,6 +5,7 @@ body {
   margin: 2em;
 }
 p{
+  margin-top:30%;
   text-align:center;
 }
 
@@ -24,8 +25,21 @@ a {
   text-align:center;
   font-style:italic;
 }
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
 .video {
     margin-left: auto;
     margin-right: auto;
     display: block
+}
+.marquee {
+  font-family:arial;
 }
