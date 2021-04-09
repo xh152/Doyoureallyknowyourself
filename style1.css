@@ -1,6 +1,5 @@
 body {
   font-family: arial black;
-  margin: 2em;
 }
 .q {
   margin-top:20%;
@@ -26,9 +25,17 @@ a:hover {
 }
 .a2{
   font-size:14px;
+  color:black;
+  text-decoration: none;
 }
 .next {
   position:fixed;
   bottom:0;
   right:0;
+}
+.video {
+  display: block; 
+	width: auto; 
+	margin: 0 auto;  
+  text-align:center;
 }
