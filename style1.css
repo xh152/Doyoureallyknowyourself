@@ -9,6 +9,9 @@ body {
   font-size:14px;
   color:black;
   text-decoration: none;
+  margin-left:10%;
+  margin-right:10%;
+  z-index:-1;
 }
 a {
   color:black;
@@ -33,14 +36,15 @@ a:hover {
   bottom:0;
   right:0;
 }
-.video {
+video {
   display: block; 
 	width: auto; 
 	margin: 0 auto;  
   justify-content:center;
   position:relative;
 }
-.p {
-  margin-left:5%;
-  margin-right:5%;
+p {
+  margin-left:10%;
+  margin-right:10%;
+  z-index:-1;
 }
