@@ -30,6 +30,9 @@ a:hover {
   font-size:14px;
   color:black;
   text-decoration: none;
+  margin-left:10%;
+  margin-right:10%;
+  z-index:-1;
 }
 .next {
   position:fixed;
