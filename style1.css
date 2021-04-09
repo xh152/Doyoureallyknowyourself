@@ -44,10 +44,12 @@ video {
 	width: auto; 
 	margin: 0 auto;  
   justify-content:center;
-  position:relative;
 }
 p {
   margin-left:10%;
   margin-right:10%;
   z-index:-1;
+}
+h1 {
+  margin-left:10%;
 }
