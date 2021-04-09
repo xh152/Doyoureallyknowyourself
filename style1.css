@@ -37,5 +37,10 @@ a:hover {
   display: block; 
 	width: auto; 
 	margin: 0 auto;  
-  text-align:center;
+  justify-content:center;
+  position:relative;
+}
+.p {
+  margin-left:5%;
+  margin-right:5%;
 }
