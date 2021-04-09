@@ -37,7 +37,8 @@ a:hover {
 .video {
     margin-left: auto;
     margin-right: auto;
-    display: block
+    display: block;
+    align-item:middle;
 }
 .marquee {
   font-family:arial;
